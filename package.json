@@ -1,0 +1,25 @@
+{
+  "name": "burgerlogger-hw13",
+  "version": "1.0.0",
+  "description": "HW 13 burger-logger",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeretc79/BurgerLogger-HW13.git"
+  },
+  "keywords": [
+    "hw13"
+  ],
+  "author": "Jeretc79",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeretc79/BurgerLogger-HW13/issues"
+  },
+  "homepage": "https://github.com/Jeretc79/BurgerLogger-HW13#readme"
+}
