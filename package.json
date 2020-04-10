@@ -1,0 +1,20 @@
+{
+  "name": "burgerlogger-hw13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeretc79/BurgerLogger-HW13.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeretc79/BurgerLogger-HW13/issues"
+  },
+  "homepage": "https://github.com/Jeretc79/BurgerLogger-HW13#readme"
+}
